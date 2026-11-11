@@ -1,0 +1,16 @@
+# Секреты
+.env
+.env.*
+
+# Исключение для шаблона
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
